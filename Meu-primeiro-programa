@@ -1,0 +1,44 @@
+console.log("Meu primeiro programa: trabalhando com variáveis");
+
+const idade = 26;
+
+console.log("idade");
+console.log(idade);
+console.log(idade+2);
+console.log(idade-2);
+console.log(idade/2);
+
+const idadeSomada = idade+2;
+console.log(idadeSomada);
+
+//Console.log("Trabalhando com variáveis");
+console.log("Trabalhando com variáveis");
+//JS é case sensitive
+
+const idade =29;
+const nome ="Ricardo";
+let ano = 2020;
+
+
+
+console.log("Operações Aritméticas");
+
+console.log(2+2);
+console.log(10+8*2);
+console.log((10+8)  * 2);
+
+console.log("ano"  + 2020);
+console.log("2" + "2");
+
+console.log("Conversão de Tipos");
+
+console.log("ano" + 2020);
+console.log("2" + "2");
+console.log(parseInt("2") + parseInt("2"));
+
+console.log("7" / "2"); 
+console.log("Ricardo" / "2"); //Not a Number
+
+console.log(6.5);
+console.log(6,5);
+
